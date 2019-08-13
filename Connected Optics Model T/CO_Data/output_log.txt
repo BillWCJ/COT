@@ -1,0 +1,52 @@
+Initialize engine version: 5.3.6f1 (29055738eb78)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.128 seconds
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 50Hz; virtual: 5120x1440 at -2560,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.3.6f1 (29055738eb78)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\CO\Connected Optics Model T\CO_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\CO\Connected Optics Model T\CO_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 50Hz; virtual: 5120x1440 at -2560,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.545931 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: fe0 -> priority: 1 
