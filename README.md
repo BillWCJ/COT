@@ -12,11 +12,13 @@ Prototype 2 mainly include tape and:
 - [Curved mirror combiner](https://www.aliexpress.com/item/4000200706828.html)
 - Arduino + [Adafruit 9-DOF IMU - BNO055](https://www.adafruit.com/product/2472)
 
-TODO: add images
+![v2_top_view](v2_top_view.jpg)
+
+![v2_front_view](v2_front_view.jpg)
 
 # Software
 - [DX11 Desktop Duplication API](https://github.com/tylerwhall/desktop-duplication-sample)
 - Lens Distortion Effect in Unity; Was originally using AR Box Unity SDK for image transformation (can't find link anymore)
 - Arduino and Adafruit Libraries
 
-TODO: add gif
+![v1_through_video](v1_through_video.gif)
